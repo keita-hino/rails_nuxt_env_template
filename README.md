@@ -1,2 +1,2 @@
-# rails_vue_cli_template
-rails6系(backend)とvue cli(front)の疎通まで完了。
+# rails_nuxt_env_template
+rails6系(backend)とnuxt(front)の疎通まで完了。
